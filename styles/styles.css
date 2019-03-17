@@ -1,3 +1,7 @@
+body{
+	background-color: #000;
+}
+
 .home-image {
   display: block;
   margin-left: auto;
