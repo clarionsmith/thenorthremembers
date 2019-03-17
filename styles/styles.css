@@ -9,6 +9,6 @@ body{
   width: 30%;
 }
 
-cloudflare-app[app="countdown"] cf-countdown-block{
+cloudflare-app[app="countdown"] cf-countdown-block cf-countdown-number{
 	background-color: #16181c !important;
 }
