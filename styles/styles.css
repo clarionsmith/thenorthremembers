@@ -12,3 +12,7 @@ body{
 cloudflare-app[app="countdown"] cf-countdown-block, cloudflare-app[app="countdown"] cf-countdown-header{
 	background-color: #16181c !important;
 }
+
+cloudflare-app[app="countdown"][data-background="visible"] cf-countdown-number{
+	background-color: #16181c !important;
+}
